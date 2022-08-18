@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+.vscode/settings.json
+.vscode/tasks.json
+geometricCalculator
+geometricCalculator.dSYM/Contents/Info.plist
